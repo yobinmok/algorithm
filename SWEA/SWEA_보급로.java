@@ -2,7 +2,6 @@ package SWEA;
 import java.io.*;
 import java.util.*;
 
-
 public class SWEA_보급로 {
 
 	static int N, min;
