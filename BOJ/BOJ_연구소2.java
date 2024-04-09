@@ -1,4 +1,4 @@
-package com.edu.week03;
+package BOJ;
 
 import java.io.*;
 import java.util.*;
